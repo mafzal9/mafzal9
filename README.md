@@ -11,14 +11,14 @@
 
 
 ### Content for IoT Lovers:
-[Arduino IoT Cloud For Developers Book]([https://phpdocs.com](https://www.amazon.com/Arduino-Cloud-Developers-simple-complex/dp/1837637172))
+[Arduino IoT Cloud For Developers Book](https://www.amazon.com/Arduino-Cloud-Developers-simple-complex/dp/1837637172).
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://phpdocs.com)
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube](https://youtube.com/phpdocs)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/mafzal9/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook](https://www.facebook.com/afzalattari)
-[<img align="left" alt="codeSTACKr | Udemy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />][udemy](https://www.udemy.com/user/e5ab1a55-ebd7-4523-b310-ef92999883e7/)
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/phpdocs)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mafzal9/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/afzalattari)
+[<img align="left" alt="codeSTACKr | Udemy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />](https://www.udemy.com/user/e5ab1a55-ebd7-4523-b310-ef92999883e7/)
 
 <br />
 
