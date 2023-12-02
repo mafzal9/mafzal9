@@ -2,20 +2,23 @@
 
 [![Website](https://img.shields.io/website?label=phpdocs.com&style=for-the-badge&url=https%3A%2F%2Fphpdocs.com)](https://phpdocs.com)
 
-## I'm a Freelance Developer and Teacher!!
+## I'm a Freelance Developer, Trainer and Book Author!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Cooking some thing new for IoT Community
 - ⚡ Fun fact: I love to Games
 
 
+### Content for IoT Lovers:
+[Arduino IoT Cloud For Developers Book]([https://phpdocs.com](https://www.amazon.com/Arduino-Cloud-Developers-simple-complex/dp/1837637172))
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website](https://phpdocs.com)
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube](https://youtube.com/phpdocs)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/mafzal9/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook](https://www.facebook.com/afzalattari)
+[<img align="left" alt="codeSTACKr | Udemy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />][udemy](https://www.udemy.com/user/e5ab1a55-ebd7-4523-b310-ef92999883e7/)
 
 <br />
 
