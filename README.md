@@ -1,13 +1,11 @@
-### Hi there, I'm Muhammad Afzal - [website] 👋
-
-[![Website](https://img.shields.io/website?label=phpdocs.com&style=for-the-badge&url=https%3A%2F%2Fphpdocs.com)](https://phpdocs.com)
+### Hi there, I'm Muhammad Afzal - 👋
 
 ## I'm a Freelance Developer, Trainer and Book Author!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Cooking some thing new for IoT Community
-- ⚡ Fun fact: I love to Games
+- ⚡ Fun fact: I love to Play Computer Games, Book Reading and Cooking
 
 
 ### Content for IoT Lovers:
